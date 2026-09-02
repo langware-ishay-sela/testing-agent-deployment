@@ -1,0 +1,8 @@
+{
+  "name": "my-very-first-mcp",
+  "command": "fastmcp",
+  "args": [
+    "run"
+  ],
+  "entrypoint": "server.py"
+}
