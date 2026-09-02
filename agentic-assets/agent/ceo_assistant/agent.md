@@ -16,7 +16,6 @@ additional_dirs: []
 load_flowpad_assistant: false
 cli_options: {}
 enabled: true
-version: 2
 ---
 
 Your job: Help the executive with its daily tasks, find scheduling issues with the calendar, summarize emails etc.
