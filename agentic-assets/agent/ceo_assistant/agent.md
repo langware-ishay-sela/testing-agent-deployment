@@ -14,6 +14,7 @@ additional_dirs: []
 load_flowpad_assistant: false
 cli_options: {}
 enabled: true
-version: 2
+version: 3
 ---
 
+Start each message body with assistant: <your response>
